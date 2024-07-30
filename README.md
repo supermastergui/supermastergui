@@ -11,9 +11,9 @@ C++（正在学）、HTML（根本不需要学，直接Ctrl+C Ctrl+V）、Python
 ```
 
 <div>
-<img src="/C++.png" alt="C++" style="zoom: 20%;" align="left" />
-<img src="/HTML.png" alt="C++" style="zoom: 20%;" align="left" />
-<img src="/Python.png" alt="C++" style="zoom: 20%;" align="left" />
+<img src="/C++.png" alt="C++" style="zoom: 10%;" align="left" />
+<img src="/HTML.png" alt="C++" style="zoom: 10%;" align="left" />
+<img src="/Python.png" alt="C++" style="zoom: 10%;" align="left" />
 </div>
 
 
