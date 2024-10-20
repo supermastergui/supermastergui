@@ -6,7 +6,7 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=supermastergui&repo=FSD)
 
-![Card](https://github-readme-activity-graph.cyclic.app/graph?username=supermastergui&theme=transparent)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=supermastergui&theme=dracula)
 
 ---
 
