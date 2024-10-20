@@ -3,6 +3,7 @@
 ---
 ![](https://github-readme-stats.vercel.app/api?username=supermastergui&show_icons=true&theme=transparent)
 
+![Visitor Count](https://profile-counter.glitch.me/supermastergui/count.svg)
 ---
 
 
