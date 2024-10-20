@@ -1,7 +1,7 @@
 # 这里是你们的桂-师-傅的主页 | This is the homepage of your Masters_Gui.
 
 ---
-![](https://github-readme-stats.vercel.app/api?username=supermasterguie&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=supermastergui&show_icons=true&theme=transparent)
 
 ---
 
