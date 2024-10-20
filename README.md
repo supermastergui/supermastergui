@@ -2,7 +2,6 @@
 
 ---
 ![](https://github-readme-stats.vercel.app/api?username=supermastergui&show_icons=true&theme=transparent)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supermastergui&layout=compact&theme=transparent)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=supermastergui&repo=FSD)](https://github.com/supermastergui/FSD)
@@ -20,6 +19,4 @@
 C++（正在学）、HTML（根本不需要学，直接Ctrl+C Ctrl+V）、Python（洒洒水的啦，简单做个爬虫还阔以）
 ```
 
-<img src="/C++.png" alt="C++" style="zoom: 10%;" align="left" />
-<img src="/HTML.png" alt="C++" style="zoom: 10%;" align="left" />
-<img src="/Python.png" alt="C++" style="zoom: 10%;" align="left" />
+<img src="/C++.png" alt="C++" style="zoom: 1%;" align="left" /><img src="/HTML.png" alt="C++" style="zoom: 1%;" align="left" /><img src="/Python.png" alt="C++" style="zoom: 1%;" align="left" />
