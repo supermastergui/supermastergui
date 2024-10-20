@@ -6,7 +6,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supermastergui&layout=compact&theme=transparent)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=supermastergui&repo=github-readme-stats)](https://github.com/supermastergui/FSD)
-
 ---
 
 
