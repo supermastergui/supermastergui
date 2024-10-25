@@ -4,9 +4,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=supermastergui&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supermastergui&layout=compact&theme=transparent)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=supermastergui&repo=FSD)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=supermastergui&repo=vatspy-data-project)
 ---
 
 
