@@ -4,8 +4,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/128722322?v=4" alt="Logo" style="border-radius: 100px; text-align: center; zoom: 67%;" />
 
-![stats](https://github-readme-stats.vercel.app/api?username=supermastergui&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supermastergui&layout=compact&theme=transparent)
+![stats](https://github-readme-stats.vercel.app/api?username=supermastergui&show_icons=true&theme=transparent)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supermastergui&layout=compact&theme=transparent)
 
 ## 个人简介
 
