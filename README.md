@@ -1,2 +1,71 @@
-<div id='write'  class=''><h1 id='👋这里是你们的桂-师-傅的主页'><span>👋这里是你们的桂-师-傅的主页!</span></h1><p><span>👋This is the homepage of your Masters_Gui!</span></p><p><img src="https://avatars.githubusercontent.com/u/128722322?v=4" alt="Logo" style="border-radius: 100px; text-align: center; zoom: 67%;" /></p><p><img src="https://github-readme-stats.vercel.app/api?username=supermastergui&amp;show_icons=true&amp;theme=transparent" alt="stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supermastergui&amp;layout=compact&amp;theme=transparent" alt="Top Langs"></p><h2 id='个人简介'><span>个人简介</span></h2><p><span>我是一位模拟飞行爱好者、编程“</span><strong><span>达人</span></strong><span>”，主要在以下组织中活跃：</span></p><ul><li><p><span>@ </span><a href='https://github.com/Master-Gui-Studio'><span>Master Gui Studio</span></a><span> (Master Gui 工作室)</span></p></li><li><p><span>@ </span><a href='https://github.com/Flyatcsim-Sector-Studio'><span>Flyatcsim Sector Studio</span></a><span> (Flyatcsim 扇区工作室)</span></p></li><li><p><span>@ </span><a href='https://github.com/Flyleague-Collection'><span>Flyleague Collection</span></a><span> (模拟飞行资源中心)</span></p></li></ul><p><span>我们有很多开源项目，但是请注意也有非常多的非开源项目，请留意文件夹内部是否有LICENSE文件。</span></p><p><span>对了，如果您觉得项目还不错，请给个Star！</span></p><p>&nbsp;</p><h2 id='使用语言'><span>使用语言</span></h2><ul><li><p><img src="./assets/C++.png" alt="C++" style="zoom:10%;" /><span>C++（正在学)、</span></p></li><li><p><img src="./assets/HTML.png" alt="HTML" style="zoom:10%;" /><span>HTML、Markdown（根本不需要学，直接Ctrl+C Ctrl+V)、</span></p></li><li><p><img src="./assets/Python.png" alt="Python" style="zoom:10%;" /><span>Python（洒洒水的啦，简单做个爬虫还阔以)</span></p></li><li><p><img src="./assets/Golang.png" alt="Golang" style="zoom:10%;" /><span>Go (看得懂，不会写)</span></p></li></ul><p>&nbsp;</p><h2 id='软件'><span>软件</span></h2><figure class='table-figure'><table><thead><tr><th><span>软件名</span></th><th><span>用途</span></th></tr></thead><tbody><tr><td><img src="./assets/VisualStudioCode.png" alt="VisualStudioCode" style="zoom:25%;" /><strong><span>VSCode</span></strong></td><td><span>Vue项目/轻量Python项目</span></td></tr><tr><td><img src="./assets/VisualStudio.png" alt="VisualStudio" style="zoom:25%;" /><strong><span>Visual Studio 2022</span></strong></td><td><span>EuroScope Plugin</span></td></tr><tr><td><img src="./assets/NotFound.png" alt="NotFound" style="zoom:25%;" /><strong><span>Obsidian</span></strong><span>、</span><strong><span>Typora</span></strong></td><td><span>Markdown</span></td></tr><tr><td><img src="./assets/NotFound-1763781811008-10.png" alt="NotFound" style="zoom:25%;" /><strong><span>PyCharm</span></strong></td><td><span>日常Python项目及部分Markdown</span></td></tr><tr><td><img src="./assets/Clion.png" alt="Clion" style="zoom:25%;" /><strong><span>CLion</span></strong></td><td><span>部分C++竞赛项目</span></td></tr></tbody></table></figure><p><em><span>感谢由 @ </span><a href='https://github.com/SAWARATSUKI'><span>SAWARATSUKI</span></a><span> 制作的可爱Logo，Thank you!</span></em></p><p><em><span>ありがとう！</span></em></p><p>&nbsp;</p><h2 id='竞赛'><span>竞赛</span></h2><ul><li><p><span>@ </span><a href='https://www.robotevents.com/robot-competitions/vex-iq-competition/RE-VIQRC-23-3693.html'><span>2024 VEX IQ Robotics Competition World</span></a><span> -  Without dome, Team:7755B at </span><a href='https://www.robotevents.com/robot-competitions/vex-iq-competition/RE-VIQRC-23-3693.html#spirit'><span>Spirit</span></a></p></li><li><p><span>@ </span><a href='https://www.noi.cn/'><span>NOIP</span></a><span> - Third Prize</span></p></li><li><p><span>@ </span><a href='https://www.lanqiaoqingshao.cn/home'><span>lanqiaoqingshao </span></a><span>- Second Prize</span></p></li></ul><p>&nbsp;</p><h2 id='账户安全'><span>账户安全</span></h2><p><img src="./assets/GitHub.png" alt="GitHub" style="zoom: 10%; text-align: center;" /></p><p><span>GPG密钥：</span><code>F5D4CF689AED7FF6</code><span>；到期时间：</span><code>2028/11/16</code><span>；</span></p><p><span>已开启Github </span><a href='https://docs.github.com/zh/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits'><span>警戒模式</span></a><span>，如果您遇到本人使用非此密钥，请及进行汇报</span></p><p>&nbsp;</p><h2 id='联系方式'><span>联系方式</span></h2><ul><li><p><span>Github: @ </span><a href='https://github.com/supermastergui'><span>supermastergui</span></a></p></li><li><p><span>Email: </span><a href='mailto:gui.shifu@outlook.com'><span>gui.shifu@outlook.com</span></a></p></li><li><p><span>QQ Chat: 1436001938</span></p></li></ul></div></div>
+# 👋这里是你们的桂-师-傅的主页!
+
+👋This is the homepage of your Masters_Gui!
+
+<img src="https://avatars.githubusercontent.com/u/128722322?v=4" alt="Logo" style="border-radius: 100px; text-align: center;" />
+
+![stats](https://github-readme-stats.vercel.app/api?username=supermastergui&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supermastergui&layout=compact&theme=transparent)
+
+## 个人简介
+
+我是一位模拟飞行爱好者、编程“**达人**”，主要在以下组织中活跃：
+
+- @ [Master Gui Studio](https://github.com/Master-Gui-Studio) (Master Gui 工作室)
+- @ [Flyatcsim Sector Studio](https://github.com/Flyatcsim-Sector-Studio) (Flyatcsim 扇区工作室)
+- @ [Flyleague Collection](https://github.com/Flyleague-Collection) (模拟飞行资源中心)
+
+我们有很多开源项目，但是请注意也有非常多的非开源项目，请留意文件夹内部是否有LICENSE文件。
+
+对了，如果您觉得项目还不错，请给个Star！
+
+
+
+## 使用语言
+
+- <img src="./assets/C++.png" alt="C++" style="" />C++（正在学)、
+- <img src="./assets/HTML.png" alt="HTML" style="" />HTML、Markdown（根本不需要学，直接Ctrl+C Ctrl+V)、
+- <img src="./assets/Python.png" alt="Python" style="" />Python（洒洒水的啦，简单做个爬虫还阔以)
+- <img src="./assets/Golang.png" alt="Golang" style="" />Go (看得懂，不会写)
+
+
+
+## 软件
+
+| 软件名                                                       | 用途                         |
+| ------------------------------------------------------------ | ---------------------------- |
+| <img src="./assets/VisualStudioCode.png" alt="VisualStudioCode" style="" />**VSCode** | Vue项目/轻量Python项目       |
+| <img src="./assets/VisualStudio.png" alt="VisualStudio" style="" />**Visual Studio 2022** | EuroScope Plugin             |
+| <img src="./assets/NotFound.png" alt="NotFound" style="" />**Obsidian**、**Typora** | Markdown                     |
+| <img src="./assets/NotFound-1763781811008-10.png" alt="NotFound" style="" />**PyCharm** | 日常Python项目及部分Markdown |
+| <img src="./assets/Clion.png" alt="Clion" style="" />**CLion** | 部分C++竞赛项目              |
+
+*感谢由 @ [SAWARATSUKI](https://github.com/SAWARATSUKI) 制作的可爱Logo，Thank you!*
+
+*ありがとう！*
+
+
+
+## 竞赛
+
+- @ [2024 VEX IQ Robotics Competition World](https://www.robotevents.com/robot-competitions/vex-iq-competition/RE-VIQRC-23-3693.html) -  Without dome, Team:7755B at [Spirit](https://www.robotevents.com/robot-competitions/vex-iq-competition/RE-VIQRC-23-3693.html#spirit)
+- @ [NOIP](https://www.noi.cn/) - Third Prize
+- @ [lanqiaoqingshao ](https://www.lanqiaoqingshao.cn/home)- Second Prize
+
+
+
+## 账户安全
+
+<img src="./assets/GitHub.png" alt="GitHub" style="text-align: center;" />
+
+GPG密钥：`F5D4CF689AED7FF6`；到期时间：`2028/11/16`；
+
+已开启Github [警戒模式](https://docs.github.com/zh/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits)，如果您遇到本人使用非此密钥，请及进行汇报
+
+
+
+## 联系方式
+
+- Github: @ [supermastergui](https://github.com/supermastergui)
+- Email: [gui.shifu@outlook.com](mailto:gui.shifu@outlook.com)
+- QQ Chat: 1436001938
