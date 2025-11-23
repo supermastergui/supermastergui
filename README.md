@@ -57,7 +57,9 @@
 
 <img src="./assets/GitHub.png" alt="GitHub" style="zoom: 10%; text-align: center;" />
 
-GPG密钥：`F5D4CF689AED7FF6`；到期时间：`2028/11/16`；
+GPG密钥：`F5D4CF689AED7FF6`，到期时间：`2028/11/16`;
+
+GPG密钥：`D92563A99257DCB9`，到期时间：`undefined`;
 
 已开启Github [警戒模式](https://docs.github.com/zh/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits)，如果您遇到本人使用非此密钥，请及进行汇报
 
