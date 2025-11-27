@@ -4,7 +4,7 @@
   <img src="https://avatars.githubusercontent.com/u/128722322?v=4" alt="Masters_Gui Logo" width="180" style="border-radius: 50%;" />
 </p>
 
----
+
 
 ### ✨ 我的 GitHub 统计数据
 
@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supermastergui&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
----
+
 
 ### 👤 个人简介 (About Me)
 
@@ -21,14 +21,14 @@
 
 * **Master Gui Studio** (@ [Master Gui Studio](https://github.com/Master-Gui-Studio))
 * **Flyatcsim Sector Studio** (@ [Flyatcsim Sector Studio](https://github.com/Flyatcsim-Sector-Studio))
-* **模拟飞行资源中心** (@ [Flyleague Collection](https://github.com/Flyleague-Collection))
+* **APOCFLY** (@ [Apocalypse Flyleague](https://github.com/apocfly)
 
 > 📜 **开源项目提示:**
 > 我们有很多开源项目，但也有非常多的**非开源项目**。请留意文件夹内部是否有 `LICENSE` 文件来确定其开源状态。
 
 如果项目对您有所帮助，请不吝给一个 **Star**！⭐
 
----
+
 
 ### 🛠️ 使用语言与技能 (Languages & Skills)
 
@@ -39,7 +39,7 @@
 | **Python** | 洒洒水啦，简单做个爬虫还阔以 | <img src="./assets/Python.png" alt="Python" width="30" /> |
 | **Go** (Golang) | 看得懂，但不会写 | <img src="./assets/Golang.png" alt="Golang" width="30" /> |
 
----
+
 
 ### 🗄️ 开发软件清单 (Software Stack)
 
@@ -53,7 +53,7 @@
 
 > *🌟 特别感谢 @ [SAWARATSUKI](https://github.com/SAWARATSUKI) 制作的可爱 Logo！Thank you! ありがとう！*
 
----
+
 
 ### 🏆 竞赛经历 (Competitions)
 
@@ -63,7 +63,7 @@
 * **NOIP** (@ [noi.cn](https://www.noi.cn/)) - 三等奖 (Third Prize)
 * **蓝桥杯青少年组** (@ [lanqiaoqingshao](https://www.lanqiaoqingshao.cn/home)) - 二等奖 (Second Prize)
 
----
+
 
 ### 🛡️ 账户安全与签名 (Account Security)
 
@@ -79,7 +79,7 @@
 > ⚠️ **重要提醒:**
 > 已开启 Github [警戒模式](https://docs.github.com/zh/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits)。如果您遇到本人使用**非此密钥**进行提交，请及时进行汇报！
 
----
+
 
 ### 📧 联系方式 (Contact Me)
 
