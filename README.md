@@ -20,8 +20,6 @@
 我是一位**模拟飞行爱好者**和**编程“达人”**。我主要在以下组织中活跃：
 
 * **Master Gui Studio** (@ [Master Gui Studio](https://github.com/Master-Gui-Studio))
-* **Flyatcsim Sector Studio** (@ [Flyatcsim Sector Studio](https://github.com/Flyatcsim-Sector-Studio))
-* **APOCFLY** (@ [Apocalypse Flyleague](https://github.com/apocfly)
 
 > 📜 **开源项目提示:**
 > 我们有很多开源项目，但也有非常多的**非开源项目**。请留意文件夹内部是否有 `LICENSE` 文件来确定其开源状态。
